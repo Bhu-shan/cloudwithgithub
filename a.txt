@@ -2,3 +2,6 @@ Python
 Java
 PHP
 C++
+Ruby
+DevOPs
+AWS
